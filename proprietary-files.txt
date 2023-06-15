@@ -1,4 +1,4 @@
-# All unpinned blobs below are extracted from https://www.celsoazevedo.com/files/android/google-camera/dev-hasli/f/dl13/
+# All unpinned blobs below are extracted from https://www.celsoazevedo.com/files/android/google-camera/dev-hasli/f/dl14/
 
 # Camera
--GoogleCamera.apk:product/app/GoogleCamera/GoogleCamera.apk;OVERRIDES=Aperture,Camera2,GoogleCameraGo,PhotonCamera,Snap|c473b13f4a67728e188f214f215f478684b808ea
+-GoogleCamera.apk:product/app/GoogleCamera/GoogleCamera.apk;OVERRIDES=Aperture,Camera2,GoogleCameraGo,PhotonCamera,Snap|81cc4b3568b0128763b56e167dea7e39578613ab
